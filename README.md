@@ -4,7 +4,7 @@
 
 ## Welcome! 👋
 
-[building project](##building-your-project)
+[building project](#building-your-project)
 
 Thanks for checking out this front-end coding challenge.
 
