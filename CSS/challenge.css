@@ -1,0 +1,113 @@
+/* @media screen and (max-width: 320px) {
+}
+header * {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 1pt;
+  margin-left: 32px;
+  height: 32px;
+  padding-top: 30px;
+}
+body {
+  background-color: hsl(257, 40%, 49%);
+  background-image: url("/challenge/images/bg-mobile.svg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.illustration {
+  width: 250px;
+  height: 150px;
+  margin-left: 35px;
+  margin-right: 35px;
+  padding-top: 45px;
+}
+.Buildcommunity {
+  color: aliceblue;
+  padding-top: 40px;
+  padding-bottom: 50px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#build {
+  font-size: 21px;
+  font-weight: 1pt;
+}
+#huddle {
+  font-size: 14px;
+  line-height: 20px;
+  padding-bottom: 20px;
+}
+#regbutton * {
+  width: 170px;
+  height: 35px;
+  padding: auto;
+  border-radius: 50px;
+  font-size: 12px;
+}
+.footer * {
+  height: 20px;
+  margin-right: 10px;
+}
+
+.footer {
+  text-align: center;
+} */
+
+@media screen and (max-width: 1280px) {
+}
+header * {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 70px;
+  height: 50px;
+  padding-top: 30px;
+}
+body {
+  background-color: hsl(257, 40%, 49%);
+  background-image: url("/challenge/images/bg-desktop.svg");
+  background-repeat: no-repeat;
+  background-size: 80%;
+  background-position-y: -20px;
+  background-position-x: 80px;
+}
+.illustration {
+  width: 650px;
+  height: 420px;
+  margin-left: 70px;
+  padding-top: 47px;
+}
+.Buildcommunity {
+  padding-top: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  float: right;
+  margin-right: 160px;
+}
+#build {
+  color: aliceblue;
+  font-size: 35px;
+  line-height: 50px;
+  margin-bottom: 0px;
+}
+#huddle {
+  color: rgb(206, 202, 202);
+  font-size: 16px;
+  line-height: 25px;
+  padding-bottom: 20px;
+}
+#regbutton * {
+  width: 170px;
+  height: 50px;
+  border-radius: 50px;
+  font-size: 15px;
+  margin-top: -70px;
+  color: rgb(183, 135, 228);
+  font-weight: bold;
+}
+.footer * {
+  height: 30px;
+  margin-right: 15px;
+}
+
+.footer {
+  text-align: right;
+  margin-right: 100px;
+  margin-top: 10px;
+}
